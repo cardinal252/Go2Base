@@ -1,4 +1,4 @@
-package main
+package Go2Base
 
 import (
 	"log"
